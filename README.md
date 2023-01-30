@@ -14,4 +14,4 @@ Quais são os principais campos e tipos?
 R: Códigos das entidades, sendo PK ou FK com seu tipo de valor Int.
 
 Como essas entidades estão relacionadas?
-R:Através de relacionamentos que variam de muitos para muitos ou um para muitos.
+R: Através de relacionamentos que variam de muitos para muitos ou um para muitos.
